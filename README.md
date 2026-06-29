@@ -14,7 +14,9 @@ def  __social__(self):
  └─$
 ```
 <h1>PROFILE VIEWS;</h1>
-<p align="center"><img src="https://count.getloli.com/get/@:kadinkatilii" alt=":kadinkatilii" /></p>
+<p align="center">
+  <img src="https://count.getloli.com/get/@cegged?theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="cegged" />
+</p>
 
  
 
