@@ -1,16 +1,16 @@
 
 ```python
-┌──(aqu@root)-[~/]
-└─$ cat aqu.py
+┌──(ceg@root)-[~/]
+└─$ cat ceg.py
 
-class aqu:
+class ceg:
 
 def  __social__(self):
- self.gtb = "https://github.com/kadinkatilii"
- self.dsc = "kadinkatili"
- self.tlg = "https://t.me/aqu1337"
+ self.gtb = "https://github.com/cegged"
+ self.dsc = "c3g"
+ self.tlg = "https://t.me/cegged"
   
- ┌──(aqu@root)-[~/]
+ ┌──(ceg@root)-[~/]
  └─$
 ```
 <h1>PROFILE VIEWS;</h1>
