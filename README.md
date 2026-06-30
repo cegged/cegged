@@ -25,7 +25,19 @@ def  __social__(self):
 
 
 
+<h1 align="center">CEG</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/python-3.x-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/style-hacker-black?style=for-the-badge">
+</p>
+
+---
+
+```bash
+┌──(ceg@root)-[~/]
+└─$ cat ceg.py
 
 
 
